@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Full-stack engineer building scalable apps with a DevOps mindset.
+🧑‍💻 Software engineer building scalable apps with a DevOps mindset.
 
 
 ## 🌐 Socials:
